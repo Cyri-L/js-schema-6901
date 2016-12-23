@@ -1,5 +1,5 @@
 "use strict";
-const index_1 = require("../index");
+var index_1 = require("../index");
 var Duck = index_1.schema({
     swim: Function,
     quack: Function,
