@@ -1,5 +1,5 @@
 {
-  "name": "js-schema-6901",
+  "name": "sw-js-schema",
   "version": "0.3.0",
   "description": "Enhances js-schema with JSON Pointer (RFC 6901)",
   "main": "index.js",
